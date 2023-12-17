@@ -10,7 +10,7 @@
     
     Machine Learning: Scikit-Learn, TensorFlow, PyTorch
     
-    Data Visualization: Matplotlib, Seaborn, Plotly
+    Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, PowerBI
     
     Database: SQL, MongoDB
     
